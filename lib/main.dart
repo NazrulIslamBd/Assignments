@@ -2,7 +2,7 @@ import 'classes/car_class.dart';
 
 void main() {
 
-  // Car class obj
+  // car class obj
   Car myCar = Car('Toyota', 'Corolla', 2015);
 
   // showing car details
